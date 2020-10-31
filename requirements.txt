@@ -1,0 +1,4 @@
+flask
+Werkzeug
+torchvision
+pillow
